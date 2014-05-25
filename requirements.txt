@@ -1,1 +1,1 @@
-Django==1.7b4
+https://www.djangoproject.com/download/1.7.b4/tarball/
